@@ -6,7 +6,7 @@ The problem is assumed to be in SEF. The tableau that is returned is for the ori
  	A x = b  
  	l <= x <= u  
  The optimal tableau for the following augmented instance is returned:  
- 	[A | I] [x // s] <= b  
+ 	[A | I] [x // s] = b  
  	l <= x <= u  
  	s >= 0  
   
